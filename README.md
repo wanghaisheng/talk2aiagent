@@ -4,3 +4,4 @@ can we just chat or talk to our personal ai agent to process routine task, compl
 
 https://github.com/wanghaisheng/xiaogpt
 
+https://github.com/wanghaisheng/can-gpt-build-daily-agent
